@@ -5,7 +5,30 @@ layout: default
 
 # Third party licences
 
+[Springworks](http://www.springworks.se) really like open source. We use it a lot, and try to [give back](https://springworks.github.io) to the community as much as we can.
 
+Thank you! :heart:
+
+---
+
+## Server
+We cannot list all of the libraries on this page, but our favorites include: 
+- [Node.js](https://nodejs.org)
+- [npm](https://www.npmjs.com)
+- [Restify](https://github.com/restify/node-restify)
+- [Joi](https://github.com/hapijs/joi)
+- [Babel](https://babeljs.io)
+- [Async](https://github.com/caolan/async)
+- [Eslint](http://eslint.org)
+- [Mocha](http://mochajs.org)
+- [Istanbul](https://github.com/gotwarlost/istanbul)
+- [Config](https://github.com/lorenwest/node-config)
+- [Lodash](https://lodash.com)
+- ... and many more
+
+All open source libraries on the server-side are either [MIT](https://en.wikipedia.org/wiki/MIT_License) or [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0) licenses. 
+
+---
 
 ## Android Client
 
@@ -169,8 +192,7 @@ SOFTWARE.
 * https://github.com/square/okhttp/blob/master/LICENSE.txt
 * Apache Licence 2.0
 
-
-
+---
 
 ## iOS Client
 
