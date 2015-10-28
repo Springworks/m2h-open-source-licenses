@@ -201,3 +201,65 @@ SOFTWARE.
 * https://github.com/owensd/json-swift
 * https://github.com/owensd/json-swift/blob/master/LICENSE.txt
 * MIT
+
+---
+
+## Telematics device
+#### Apache Felix Framework
+* Version `4.4.1`
+* http://felix.apache.org
+* http://felix.apache.org/license.html
+* Apache License 2.0
+
+#### Eclipse Equinox Event
+* Version `1.3.100`
+* http://git.eclipse.org/c/equinox/rt.equinox.bundles.git/tree/bundles/org.eclipse.equinox.event
+* https://projects.eclipse.org/content/eclipse-distribution-license-1.0-bsd
+* Eclipse Distribution License - v 1.0
+
+#### Apache Felix Fileinstall
+* Version `3.5.0`
+* http://felix.apache.org
+* http://felix.apache.org/license.html
+* Apache License 2.0
+
+#### biz.aQute.launcher
+* Version `1.4.0`
+* https://github.com/bndtools/bnd
+* http://www.apache.org/licenses/LICENSE-2.0
+* Apache License 2.0
+
+#### Paho
+* Version `1.0.0`
+* https://www.eclipse.org/paho/
+* https://projects.eclipse.org/content/eclipse-distribution-license-1.0-bsd
+* Eclipse Distribution License - v 1.0
+
+#### Json.org
+* Version `20120521`
+* https://github.com/douglascrockford/JSON-java
+* http://www.apache.org/licenses/LICENSE-2.0
+
+```
+Copyright (c) 2002 JSON.org
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+The Software shall be used for Good, not Evil.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
