@@ -42,9 +42,7 @@ All open source libraries on the server-side are either [MIT](https://en.wikiped
 
 #### geodesy
 * Version `1.1.2`
-* https://github.com/douglascrockford/JSON-java
-* http://www.apache.org/licenses/LICENSE-2.0
-* Public domain
+* http://www.gavaghan.org/blog/free-source-code/geodesy-library-vincentys-formula/
 
 ```
 Geodesy by Mike Gavaghan
