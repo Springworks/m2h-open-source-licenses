@@ -57,6 +57,7 @@ project.  It comes with no warranty.
 * Version `20140107`
 * https://github.com/douglascrockford/JSON-java
 * http://www.apache.org/licenses/LICENSE-2.0
+* Modified MIT
 
 ```
 Copyright (c) 2002 JSON.org
