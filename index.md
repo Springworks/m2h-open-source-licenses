@@ -85,14 +85,14 @@ SOFTWARE.
 
 
 #### Jackson Datatype Guava
-* Version `2.5.0`
+* Version `2.7.4`
 * https://github.com/FasterXML/jackson-datatype-guava
 * http://www.apache.org/licenses/LICENSE-2.0
 * Apache 2.0
 
 
 #### Jackson Databind
-* Version `2.5.0`
+* Version `2.7.4`
 * https://github.com/FasterXML/jackson-databind
 * http://www.apache.org/licenses/LICENSE-2.0
 * Apache 2.0
@@ -104,7 +104,7 @@ SOFTWARE.
 * Apache 2.0
 
 #### Guava
-* Version `18.0`
+* Version `19.0`
 * https://github.com/google/guava
 * https://github.com/google/guava/blob/master/COPYING
 * Apache 2.0
@@ -116,20 +116,20 @@ SOFTWARE.
 * Apache 2.0
 
 #### Picasso
-* Version `1.4.0`
+* Version `2.5.2`
 * https://square.github.io/picasso/
 * https://square.github.io/picasso/#license
 * Apache 2.0
 
-#### Apache commons IO
-* Version `1.4.0`
+#### Apache commons codec
+* Version `1.10`
 * http://commons.apache.org/proper/commons-codec/
 * http://www.apache.org/licenses/
 * Apache 2.0
 
 
 #### Apache commons IO
-* Version `1.4.0`
+* Version `2.5.0`
 * http://commons.apache.org/proper/commons-io/
 * http://www.apache.org/licenses/
 * Apache 2.0
@@ -150,7 +150,7 @@ SOFTWARE.
 
 
 #### Joda time
-* Version `1.9.0`
+* Version `2.9.3`
 * http://www.joda.org/joda-time
 * http://www.joda.org/joda-time/license.html
 * Apache 2.0
@@ -186,7 +186,7 @@ SOFTWARE.
 
 
 #### OK-HTTP
-* Version `2.2.0`
+* Version `2.3.0`
 * https://github.com/square/okhttp
 * https://github.com/square/okhttp/blob/master/LICENSE.txt
 * Apache Licence 2.0
