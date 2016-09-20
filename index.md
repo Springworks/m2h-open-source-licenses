@@ -32,14 +32,6 @@ All open source libraries on the server-side are either [MIT](https://en.wikiped
 
 ## Android Client
 
-
-#### MBassador
-* Version `1.2.0`
-* https://github.com/bennidi/mbassador
-* https://github.com/bennidi/mbassador/blob/master/LICENSE
-* MIT
-
-
 #### geodesy
 * Version `1.1.2`
 * http://www.gavaghan.org/blog/free-source-code/geodesy-library-vincentys-formula/
@@ -143,7 +135,7 @@ SOFTWARE.
 
 
 #### Android-ObservableScrollView
-* Version `1.5.2`
+* Version `1.6.0`
 * https://github.com/ksoichiro/Android-ObservableScrollView
 * https://github.com/ksoichiro/Android-ObservableScrollView/blob/master/LICENSE.txt
 * Apache 2.0
@@ -164,22 +156,8 @@ SOFTWARE.
 * Apache 2.0
 
 
-#### Owner
-* Version `1.0.5`
-* https://github.com/lviggiano/owner
-* https://github.com/lviggiano/owner/blob/master/LICENSE
-* BSD
-
-#### Otto
-* Version `1.3.2`
-* https://github.com/square/otto
-* https://github.com/square/otto/blob/master/LICENSE.txt
-* Apache Licence 2.0
-
-
-
 #### OK-IO
-* Version `1.0.0`
+* Version `1.3.0`
 * https://github.com/square/okio
 * https://github.com/square/okio/blob/master/LICENSE.txt
 * Apache Licence 2.0
