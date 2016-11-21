@@ -191,6 +191,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 * https://github.com/rengwuxian/MaterialEditText/blob/master/README.md#license
 * Apache Licence 2.0
 
+
+#### AndroidSlidingUpPanel
+* Version `3.3.1`
+* https://github.com/umano/AndroidSlidingUpPanel
+* https://github.com/umano/AndroidSlidingUpPanel#licence
+* Apache Licence 2.0
+
 ---
 
 ## iOS Client
