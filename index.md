@@ -175,6 +175,7 @@ SOFTWARE.
 * https://github.com/MikeOrtiz/TouchImageView
 * https://github.com/MikeOrtiz/TouchImageView/blob/master/LICENSE
 * MIT
+
 ```
 Copyright (c) 2012 Michael Ortiz
 
