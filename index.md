@@ -222,6 +222,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 * https://github.com/scottyab/secure-preferences#licence
 * Apache Licence 2.0
 
+#### Android Material Stepper
+* Version `2.1.0`
+* https://github.com/stepstone-tech/android-material-stepper
+* https://github.com/stepstone-tech/android-material-stepper#license
+* Apache Licence 2.0
+
 ---
 
 ## iOS Client
