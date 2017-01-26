@@ -228,6 +228,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 * https://github.com/stepstone-tech/android-material-stepper#license
 * Apache Licence 2.0
 
+### Google LibPhoneNumber
+* Version '8.1.0'
+* https://github.com/googlei18n/libphonenumber
+* https://github.com/googlei18n/libphonenumber/blob/master/LICENSE
+* Apache License 2.0
+
 ---
 
 ## iOS Client
