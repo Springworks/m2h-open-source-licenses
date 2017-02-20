@@ -234,6 +234,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 * https://github.com/googlei18n/libphonenumber/blob/master/LICENSE
 * Apache License 2.0
 
+### Retrolambda
+* Version '3.5.0'
+* https://github.com/evant/gradle-retrolambda
+* https://github.com/evant/gradle-retrolambda/blob/master/LICENSE.txt
+* Apache License 2.0
+
 ---
 
 ## iOS Client
