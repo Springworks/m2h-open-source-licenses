@@ -240,6 +240,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 * https://github.com/evant/gradle-retrolambda/blob/master/LICENSE.txt
 * Apache License 2.0
 
+### MPAndroidChart
+* Version '3.0.2'
+* https://github.com/PhilJay/MPAndroidChart
+* https://github.com/PhilJay/MPAndroidChart#license
+* Apache License 2.0
+
 ---
 
 ## iOS Client
