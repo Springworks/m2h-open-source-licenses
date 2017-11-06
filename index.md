@@ -257,7 +257,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 * MIT
 
 #### ALCameraViewController
-* Version `1.1.8`
 * https://github.com/AlexLittlejohn/ALCameraViewController
 * https://github.com/AlexLittlejohn/ALCameraViewController/blob/master/LICENSE
 * MIT
@@ -287,7 +286,6 @@ SOFTWARE.
 ```
 
 #### CVCalendar
-* Version: `1.2.8`
 * https://github.com/Mozharovsky/CVCalendar
 * https://github.com/Mozharovsky/CVCalendar/blob/master/LICENSE
 * MIT
@@ -317,7 +315,6 @@ SOFTWARE.
 ```
 
 #### SwiftMessages
-* Version: `1.1.4`
 * https://github.com/SwiftKickMobile/SwiftMessages
 * https://github.com/SwiftKickMobile/SwiftMessages/blob/master/LICENSE
 * MIT
@@ -333,7 +330,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ```
 
 #### EasyTipView
-* Version: `1.0.0`
 * https://github.com/teodorpatras/EasyTipView
 * https://github.com/teodorpatras/EasyTipView/blob/master/LICENSE
 * MIT
@@ -363,7 +359,6 @@ SOFTWARE.
 ```
 
 #### SACountingLabel
-* Version: `0.1.0`
 * https://github.com/sudeepag/SACountingLabel
 * https://github.com/sudeepag/SACountingLabel/blob/master/LICENSE
 * MIT
@@ -448,7 +443,6 @@ SOFTWARE.
 ```
 
 #### Pulley
-* Version `1.3.0`
 * https://github.com/52inc/Pulley
 * https://github.com/52inc/Pulley/blob/master/LICENSE
 
