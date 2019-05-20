@@ -5,7 +5,7 @@ layout: default
 
 # Third party licences
 
-[Springworks](http://www.springworks.se) really likes open source. We use it a lot, and try to [give back](https://springworks.github.io) to the community as much as we can.
+[Springworks](https://www.springworks.se) really likes open source. We use it a lot, and try to [give back](https://springworks.github.io) to the community as much as we can.
 
 Thank you! :heart:
 
